@@ -1,0 +1,6 @@
+2022/01/05-13:04:42.854 3 Reusing MANIFEST /home/vonzipper/git/Michel_AIngelo/selenium/Default/Local Storage/leveldb/MANIFEST-000001
+2022/01/05-13:04:42.855 3 Recovering log #3
+2022/01/05-13:04:42.855 3 Reusing old log /home/vonzipper/git/Michel_AIngelo/selenium/Default/Local Storage/leveldb/000003.log 
+2022/01/05-13:05:35.280 3 Level-0 table #5: started
+2022/01/05-13:05:35.286 3 Level-0 table #5: 22680 bytes OK
+2022/01/05-13:05:35.289 3 Delete type=0 #3
